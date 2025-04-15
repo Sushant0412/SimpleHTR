@@ -1,7 +1,7 @@
 data/words*
 data/words.txt
 src/__pycache__/
-notes/
+notes/ 
 *.so
 *.pyc
 .idea/
